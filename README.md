@@ -1,5 +1,5 @@
 ## Python_Concepts
-### Concepts in Python
+### Some Important Concepts in Python
 
 **Generators**
 </br>
